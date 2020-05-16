@@ -1,0 +1,21 @@
+// - starts a one line comment
+<< - denotes an output
+c++ - a programming language 
+comment - notes to readers to let them know what the code does
+compiler - takes source code and translates it to machine code
+compile-time error - an error that occurs because of syntax (before code is translated to machine code)
+cout - an output command from the i/o stream c++ library
+executable - a file that is created from linking obj code from the source code a user writes and obj code from the c++ standard library. it acually runs the desired programs
+function - it's a box, you put a list of parameters in and the output is something else
+header - a separate file of definitions that hac be used in the source file
+IDE - a window where you can put code and run code with prebuilt tools
+#include - denotes that the following file will be usable in the souce code
+library - a series of cataloged funtions that can be included with c++
+linker - takes the object code of source code and links it to object code from the c standard library
+main() - the main function that is called from the system (the starting point of any code)
+object code - the machine code that is made from using the compiler to translate the source code
+output - the information given from the main function (determined by it's return type)
+program - a list of instructions
+source code - the file that is created by a user
+statement - a true or false argument
+

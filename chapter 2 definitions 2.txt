@@ -1,0 +1,29 @@
+statement - A part of a C++ program that specifies an action and isn’t an #include directive (or some other preprocessor directive).
+source code (program text)- what you read and write
+program - a list of things for your computer to do
+output - the information that the main function returns
+object code - what the computer executes
+main() - the main function 
+linker - the program that links the translation units or object codes of the c++ library and souce code
+library - code written usually written by others that we access using declarations found in an #included file
+#include - an include directive (make the facilities from a file available)
+IDE - an environment to develop code that is interactive and integrated 
+header - a file that contains definitions of terms, such as cout, that we can use in our program
+function - a named sequence of instructions for the computer to execute in the order in which they are written 
+		FOUR PARTS OF A FUNCTION:
+	1.return type
+	2.name of function
+	3.parameter list 
+	4.the function body
+executable - the same as object codeor machine code, it's source code translated into what the computer can execute, ones and zeros.
+cout - a standard output stream 
+compile-time errors - errors found by the compiler
+link-time errors - errors found by the linker
+run-time errors - errors not found until the program runs
+compiler - a program that translates source code from a human-readable form to something a machine can "understand".
+comment - written to describe what the program in intended to do
+c++ - a programming language designed for a wide selection of programming tasks
+<< - the output operator
+// - a token to denote what is and isn't a comment
+
+
